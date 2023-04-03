@@ -45,29 +45,20 @@ To demonstrate the practicality, we perform end-to-end attacks with three method
 # Video Demos
 Here are **video demos** showing the real-world impact of the Volttack.
 
-<!-- <img src=./demo/servo-coupler.gif width="500px" /> -->
 
-<!-- <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src=./demo/servo-coupler.mp4 type="video/mp4">
-</videos> -->
 
-<video id="video" controls="controls" preload="none">
-      <source id="mp4" src="./demo/servo-coupler.mp4" type="video/mp4" width="700px">
-</video>
+- Attack the servo using the customized coupler
+<img src=./demo/servo-coupler.gif width="500px" />
 
-<video id="video" controls="controls" preload="none">
-      <source id="mp4" src="./demo/valve-coupler.mp4" type="video/mp4" width="700px">
-</video>
 
-<video id="video" controls="controls" preload="none">
-      <source id="mp4" src="./demo/valve-probe.mp4" type="video/mp4" width="700px">
-</video>
+- Attack the valve using the customized coupler
+<img src=./demo/valve-coupler.gif width="500px" /> 
 
-# Citation
 
-```
+- Attack the valve using the current injection probe
+<img src=./demo/valve-probe.gif width="500px" />
 
-```
+
 
 # Contact
 
